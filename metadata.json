@@ -1,0 +1,6 @@
+{
+  "name": "星之卡比 參上！怪盜團 (Kirby: Squeak Squad Web Edition)",
+  "description": "致敬《星之卡比 參上！多洛奇團》的2D動作冒險遊戲。完整重現胃袋氣泡儲存、胃袋能力融合（如烈焰劍、寒冰劍、雷霆劍）、以及搶奪秘寶大寶箱的怪盜松鼠旅團追逐戰！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
