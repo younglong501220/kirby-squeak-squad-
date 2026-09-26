@@ -34,7 +34,7 @@ jobs:
 
       - name: Install dependencies
         # Standard npm install works seamlessly whether package-lock.json exists or not
-        run: npm install
+        run: npm install --legacy-peer-deps
 
       - name: Build with Vite
         run: npm run build
